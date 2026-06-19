@@ -1,5 +1,4 @@
 # mi-primer-repositorio
-practica1
 
 **Creación de enlaces:**
 
